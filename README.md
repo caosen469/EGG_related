@@ -10,3 +10,6 @@ https://github.com/erlendd/covariate-shift-adaption/blob/master/Supervised%20cla
 
 
 https://www.arangodb.com/2020/11/arangoml-part-4-detecting-covariate-shift-in-datasets/
+
+## Hyperparameter Tuning
+### Grid Search
