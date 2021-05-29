@@ -27,6 +27,8 @@ https://github.com/mne-tools/mne-python
 ## 深度学习
 图神经网络
 
+ROC曲线，AOC值：https://zhuanlan.zhihu.com/p/31256633
+
 ## 多模态机器学习 (EGG+ECG)
 
 
