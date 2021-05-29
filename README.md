@@ -27,6 +27,7 @@ https://github.com/mne-tools/mne-python
 ## 深度学习
 图神经网络
 
+## 多模态机器学习 (EGG+ECG)
 
 
 
