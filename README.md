@@ -18,4 +18,14 @@ https://www.arangodb.com/2020/11/arangoml-part-4-detecting-covariate-shift-in-da
 ## EEG Preprocessing
 https://github.com/mne-tools/mne-python
 
+# 相关知识
+
+## 信号处理
+
+## 机器学习
+
+## 深度学习
+图神经网络
+
+
 
