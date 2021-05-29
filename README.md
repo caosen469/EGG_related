@@ -21,6 +21,7 @@ https://github.com/mne-tools/mne-python
 # 相关知识
 
 ## 信号处理
+EEG数据处理步骤：https://zhuanlan.zhihu.com/p/142068015
 
 ## 机器学习
 
