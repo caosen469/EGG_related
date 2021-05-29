@@ -31,5 +31,7 @@ ROC曲线，AOC值：https://zhuanlan.zhihu.com/p/31256633
 
 ## 多模态机器学习 (EGG+ECG)
 
+# 相关软件
+## EEGlab
 
 
