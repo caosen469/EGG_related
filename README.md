@@ -34,5 +34,6 @@ ROC曲线，AOC值：https://zhuanlan.zhihu.com/p/31256633
 
 # 相关软件
 ## EEGlab
+https://zhuanlan.zhihu.com/p/102264694 EGGlab安装使用
 
 
