@@ -42,9 +42,13 @@ https://github.com/caosen469/EGG_related/tree/main/pytorch_example
 ## 多模态机器学习 (EGG+ECG)
 
 # 相关软件
-## EEGlab
+## Matlab
+### EGGlab
 https://zhuanlan.zhihu.com/p/102264694 EGGlab安装使用
 
 https://sccn.ucsd.edu/eeglab/index.php EGGlab 官方网站，下载，tutorial，workshop。
+
+### Eye-EGG
+https://blog.csdn.net/craig_cc/article/details/105530118
 
 
