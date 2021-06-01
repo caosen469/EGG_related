@@ -45,7 +45,16 @@ vgg_false = torchvision.models.vgg16(pretrained=False) # 只是加载vgg16的结
 vgg_true = torchvision.models.vgg16(pretrained=True) # 加载了结构，也加载了训练的参数
 
 **修改模型**：
-首先打印出网络结构，知道某层，或者某好几层构成的某个模块的名字：print(vgg16_true)
+首先打印出网络结构，知道某层，或者某好几层构成的某个模块的名字：
+print(vgg16_true)
+
+单独加一层，不改其他层
+vgg_16_true.add_module('add_linear', nn.Linear(1000,10)
+vgg_16_true.classifier.add_module('add_linear', nn.Linear(1000,10)
+
+直接修改某个模块层的某一层
+print(vgg16_false)
+vgg_16.classifier[6] = nn.Linear(4096, 10)
 
 ## 多模态机器学习 (EGG+ECG)
 
