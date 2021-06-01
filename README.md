@@ -35,9 +35,9 @@ ROC曲线，AOC值：https://zhuanlan.zhihu.com/p/31256633
 注意：anaconda一定要安装64位的
 
 ### Pytorch 训练框架
--准备数据集
-  -train_data = torchvision.datasets.CIFAR10(root='./data', train=True, transform=torchvision.transforms.ToTensor(), download=True)
-  -test_data = torchvision.datasets.CIFAR10(root='./data', train=False, transform=torchvision.transforms.ToTensor(), download=True)
+- 准备数据集
+  - train_data = torchvision.datasets.CIFAR10(root='./data', train=True, transform=torchvision.transforms.ToTensor(), download=True)
+  - test_data = torchvision.datasets.CIFAR10(root='./data', train=False, transform=torchvision.transforms.ToTensor(), download=True)
 
 ## 多模态机器学习 (EGG+ECG)
 
