@@ -30,6 +30,10 @@ EEG数据处理步骤：https://zhuanlan.zhihu.com/p/142068015
 
 ROC曲线，AOC值：https://zhuanlan.zhihu.com/p/31256633
 
+## Pytorch
+安装以及教程https://www.bilibili.com/video/BV1hE411t7RN?from=search&seid=15984300105231899247
+注意：anaconda一定要安装64位的
+
 ## 多模态机器学习 (EGG+ECG)
 
 # 相关软件
