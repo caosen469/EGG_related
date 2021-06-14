@@ -26,7 +26,7 @@ EEG数据处理步骤：https://zhuanlan.zhihu.com/p/142068015
 ## 机器学习
 
 ## 深度学习
-图神经网络
+图神经网络:https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d
 
 ROC曲线，AOC值：https://zhuanlan.zhihu.com/p/31256633
 
