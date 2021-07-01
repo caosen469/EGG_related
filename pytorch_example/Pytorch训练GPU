@@ -1,1 +1,5 @@
-所需要素：网络模型，数据（输入以及label）
+所需要素：网络模型，数据（输入以及label），损失函数
+
+model = model.cuda()
+
+loss_fn.cuda()
