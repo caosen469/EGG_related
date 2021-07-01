@@ -1,3 +1,6 @@
+Dataset是对数据的抽象，通过它我们可以知道：数据集的长度，获得一行数据。
+Dataset一般包含三个方法：__init__(self); __getitem__(self, idx); __len__(self)
+
 class MyData(Dataset):
 	def __init__(self, root_dir, label_dir):
 		self.root_dir = root_dir
